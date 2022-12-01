@@ -1,0 +1,23 @@
+{
+  "name": "mcci-auto-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mcci.js",
+  "scripts": {
+    "start": "node mcci.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-NCSU/mcci-auto-board.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nick-NCSU/mcci-auto-board/issues"
+  },
+  "homepage": "https://github.com/Nick-NCSU/mcci-auto-board#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "^2.6.7"
+  }
+}
