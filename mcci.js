@@ -12,7 +12,7 @@ let players = [];
   await findPlayers("k6qwn3z6", "wk64j3ed", {}, "Siege", "r9ggzx29");
   await findPlayers("k6qwn3z6", "wk64j3ed", {}, "Treetop", "ldyze27w");
   await findPlayers("k6qwn3z6", "wk64j3ed", {}, "Walls", "o9xe247w");
-  await updateRuns("k6qwn3z6", "CATEGORY_TO_SUBMIT_TO", {}, 8);
+  await updateRuns("k6qwn3z6", "9kvlx802", { "789d1q5n": "0136x5k1" }, 8);
 })();
 
 async function findPlayers(game, category, vars, mode, level) {
