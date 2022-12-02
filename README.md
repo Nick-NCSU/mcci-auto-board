@@ -33,9 +33,6 @@ Paste your speedrun.com API key (found in settings) in the `.env` file
 SRC_API_KEY="API_KEY_GOES_HERE"
 ```
 
-Change line 15 of mcci.js to the id of the category.
-Categories can be found here: https://www.speedrun.com/api/v1/games/k6qwn3z6/categories
-
 ### Running the application
 The application can be ran by typing
 ```sh
